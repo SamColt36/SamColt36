@@ -1,3 +1,4 @@
+<img alt="desenho" src="https://static.vecteezy.com/system/resources/previews/004/865/921/non_2x/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg" width="200px")
 ### Olá a todos,
 meu nome é Samuel e sou um estudante de desenvolvimento. Curto as coisas mas variadas, desde programação e automação até desenvolvimento pessoal e jardinagem.
 ### Tecnologias utilizo   
