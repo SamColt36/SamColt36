@@ -12,6 +12,6 @@ Para mais informações entre em contato pelos links abaixo.
 <a href="https://www.instagram.com/sam_colt.1836" target="_blank">
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.camelproductions.net%2Fwp-content%2Fuploads%2F2017%2F08%2FInstagram-Logo-2017.png&f=1&nofb=1&ipt=62fadecc885c8a857e311bcb384c412bc59d064b4f92d19f6f7ddd5e1cfcb96e&ipo=images" width="40"></a>
 <a href="https://www.linkedin.com/in/samuel-da-silva-santos-328429176/" target="_blank">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Flinkedin%2Flogo-linkedin-icon-1536.png&f=1&nofb=1&ipt=4f101a9bd2dee2a3185057a062c5ccaa4ca61e7cf017b151c7525511d07a4e23&ipo=images" width="37"></a>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.carltonstaffing.com%2Fwp-content%2Fuploads%2F2020%2F09%2Flinkedin-icon-logo-png-transparent-2048x2048.png&f=1&nofb=1&ipt=bad90a4aba3eeb9d8669bcf8c7565eca221f1d2d78f756c97b1fd8439920310c&ipo=images" width="37"></a>
 
 
