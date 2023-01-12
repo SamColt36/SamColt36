@@ -4,7 +4,7 @@ meu nome é Samuel e sou um estudante de desenvolvimento. Curto as coisas mas va
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ### GitHub Status
 ![]()
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green`)
+![](https://starchart.cc/{username}/{repo}.svg)
 ![]()
 ![]()
 ![]()
