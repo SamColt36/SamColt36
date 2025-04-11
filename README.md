@@ -20,7 +20,7 @@ Estudying new technologies and developing scripting and information security sol
 ## Tech Stack:
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQEdMRxB8gpEcA/profile-displaybackgroundimage-shrink_350_1400/B4DZV4LitTHkAY-/0/1741478046950?e=1748476800&v=beta&t=fp1MHMQdWIh7-v8kfrzbdnwhtQ4T96eUbYk8CsUVUao" alt="Linkedin cover photo">
+<img src="https://profile-readme-generator.com/assets/snake.svg" style="width: 100%" alt="Linkedin cover photo">
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
